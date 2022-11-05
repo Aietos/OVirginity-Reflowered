@@ -1,0 +1,15 @@
+{
+    "int": {
+        "playervirginityvalue": 1
+    },
+    "stringList": {
+        "alwaysvirgin": [
+            "Hroki",
+            "Brelyna Maryon"
+        ],
+        "nevervirgin": [
+            "Haelga",
+            "Senna"
+        ]
+    }
+}
